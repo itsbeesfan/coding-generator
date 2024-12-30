@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Build a Personal Portfolio",
+    "category": "web development",
+    "skillLevel": "beginner",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Create a Chat Application",
+    "category": "web development",
+    "skillLevel": "intermediate",
+    "technologies": ["Node.js", "Socket.io", "Express", "MongoDB"]
+  },
+  {
+    "title": "Develop a Task Management App",
+    "category": "mobile app",
+    "skillLevel": "intermediate",
+    "technologies": ["React Native", "Firebase", "HTML", "JavaScript"]
+  },
+  {
+    "title": "Build a Weather App",
+    "category": "web development",
+    "skillLevel": "beginner",
+    "technologies": ["JavaScript, API"]
+  },
+  {
+    "title": "Create an E-Commerce Website",
+    "category": "web development",
+    "skillLevel": "advanced",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"]
+  },
+  {
+    "title": "Job Board Application",
+    "category": "web development",
+    "skillLevel": "advanced",
+    "technologies": ["React", "Node.js", "Express", "MongoDB"]
+  },
+  {
+    "title": "Real-time Chat App",
+    "category": "web development",
+    "skillLevel": "intermediate",
+    "technologies": ["HTML", "JavaScript", "Node.js", "Express", "Socket.io", "MongoDB"]
+  },
+  {
+    "title": "Movie Database",
+    "category": "web development",
+    "skillLevel": "intermediate",
+    "technologies": ["HTML", "JavaScript", "React", "TMDb API", "API", "Axios"]
+  },
+  {
+    "title": "Social Media Dashboard (displays statistics)",
+    "category": "web development",
+    "skillLevel": "advanced",
+    "technologies": ["React", "Redux", "Node.js", "Express", "MongoDB", "REST API", "API", "JWT"]
+  },
+  {
+    "title": "Simple Calculator",
+    "category": "mobile app",
+    "skillLevel": "beginner",
+    "technologies": ["React Native", "Swift", "Kotlin"]
+  },
+  {
+    "title": "Recipe Finder",
+    "category": "mobile app",
+    "skillLevel": "intermediate",
+    "technologies": ["React Native", "Expo", "Spoonacular API", "API"]
+  },
+  {
+    "title": "Expense Tracker",
+    "category": "mobile app",
+    "skillLevel": "intermediate",
+    "technologies": ["React Native", "SQLite", "Firebase", "Chart.js", "D3.js"]
+  },
+  {
+    "title": "Fitness Tracker",
+    "category": "mobile app",
+    "skillLevel": "intermediate",
+    "technologies": ["React Native", "Firebase", "HealthKit", "Google Fit"]
+  },
+  {
+    "title": "News Reader",
+    "category": "mobile app",
+    "skillLevel": "intermediate",
+    "technologies": ["React Native", "News API", "API", "Firebase"]
+  },
+  {
+    "title": "AI Art Generator",
+    "category": "web development",
+    "skillLevel": "advanced",
+    "technologies": ["React", "JavaScript", "Midjourney API", "API", "CSS"]
+  },
+  {
+    "title": "Music Visualizer",
+    "category": "web development",
+    "skillLevel": "intermediate",
+    "technologies": ["React", "JavaScript", "HTML", "API"]
+  },
+  {
+    "title": "AR Game",
+    "category": "mobile app",
+    "skillLevel": "advanced",
+    "technologies": ["Unity", "Unreal Engine", "ARKit", "ARCore"]
+  },
+  {
+    "title": "Productivity App with Focus Mode",
+    "category": "mobile app",
+    "skillLevel": "advanced",
+    "technologies": ["Flutter", "Kotlin", "Swift"]
+  },
+  {
+    "title": "Online Whiteboard",
+    "category": "web development",
+    "skillLevel": "intermediate",
+    "technologies": ["React", "JavaScript", "Socket.io", "HTML"]
+  },
+  {
+    "title": "Interactive Map",
+    "category": "web development",
+    "skillLevel": "advanced",
+    "technologies": ["React", "JavaScript", "API"]
+  },
+  {
+    "title": "Language Learning App",
+    "category": "mobile app",
+    "skillLevel": "advanced",
+    "technologies": ["React Native", "Flutter", "API"]
+  },
+  {
+    "title": "Meditation and Mindfulness App",
+    "category": "mobile app",
+    "skillLevel": "intermediate",
+    "technologies": ["React Native", "Flutter"]
+  },
+  {
+    "title": "Accesibility Assistant",
+    "category": "mobile app",
+    "skillLevel": "advanced",
+    "technologies": ["React Native", "Flutter", "API"]
+  }
+]

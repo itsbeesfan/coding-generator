@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+    </style>
+    <meta charset="UTF-8">
+    <title>Project Idea Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>Project Idea Generator</h1>
+
+<!--switch by namecho on UIverse.io - used under MIT License -->
+    <div class="dark-mode-switch">
+        <label class="switch">
+            <input type="checkbox" id="darkModeToggle">
+            <span class="slider"></span>
+        </label>
+        <span id="darkModeLabel">Dark Mode: Off</span>
+    </div>
+
+    <form id="filters">
+        <label for="skillLevel">Skill Level:</label>
+        <select id="skillLevel">
+            <option value="">Select Skill Level</option>
+            <option value="beginner">Beginner</option>
+            <option value="intermediate">Intermediate</option>
+            <option value="advanced">Advanced</option>
+        </select>
+
+        <label for="technology">Technology:</label>
+        <input type="text" id="technology" placeholder="Enter Technology (HTML, JavaScript, Firebase, etc.)">
+
+        <label for="category">Category:</label>
+        <select id="category">
+            <option value="">Select Category</option>
+            <option value="web development">Web Development</option>
+            <option value="mobile app">Mobile App</option>
+        </select>
+        <button type="submit">Generate Idea</button>
+    </form>
+
+    <div id="results">
+        <h2>Project Idea:</h2>
+        <p id="idea"></p>
+    </div>
+</div>
+<div id="credits">
+    made by beesfan / tats morales
+</div>
+<script src="script.js"></script>
+</body>
+</html>
